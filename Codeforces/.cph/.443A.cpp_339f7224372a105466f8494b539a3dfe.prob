@@ -1,0 +1,1 @@
+{"name":"Local: 443A","url":"e:\\CP\\Codeforces\\443A.cpp","tests":[{"id":1630307165736,"input":"{a, b, c}\n","output":"3\n"},{"id":1630307177899,"input":"{b, a, b, a}\n","output":"2"},{"id":1630307437734,"input":"{}\n","output":"0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CP\\Codeforces\\443A.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 41A","url":"e:\\CP\\Codeforces\\41A.cpp","tests":[{"id":1630492763803,"input":"code\nedoc\n","output":"YES\n"},{"id":1630492775385,"input":"abb\naba\n","output":"NO\n"},{"id":1630492785825,"input":"code\ncode","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CP\\Codeforces\\41A.cpp","group":"local","local":true}
